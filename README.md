@@ -28,4 +28,4 @@ yarn start
 - Si te interesa el proyecto, podes ir a la pagina donde [yo hice el curso](https://learnredux.com/)
 - Si sos más de la idea de verlo por youtube, también te dejo el [link para verlo]()
 - [Repo original](https://github.com/wesbos/Learn-Redux-Starter-Files)
-- Si todo esto te parece pesado, podes verlo en funcionamiento acá
+- Si todo esto te parece pesado, podes [verlo en funcionamiento acá](https://reduxstragram-from-wesbos.netlify.app/)
